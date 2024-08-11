@@ -14,3 +14,11 @@
 3. SQL Query 
 
         - I am tried to solve the sql query. 
+
+
+4. How to RUN: 
+
+        - Clone the repository 
+        - cd to `src` 
+        - cd to specific problem directory 
+        - run any file 
